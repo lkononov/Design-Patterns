@@ -1,0 +1,6 @@
+C:\Users\Leonid Kononov\source\repos\Decorator\Decorator\bin\Debug\Decorator.exe.config
+C:\Users\Leonid Kononov\source\repos\Decorator\Decorator\bin\Debug\Decorator.exe
+C:\Users\Leonid Kononov\source\repos\Decorator\Decorator\bin\Debug\Decorator.pdb
+C:\Users\Leonid Kononov\source\repos\Decorator\Decorator\obj\Debug\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\Leonid Kononov\source\repos\Decorator\Decorator\obj\Debug\Decorator.exe
+C:\Users\Leonid Kononov\source\repos\Decorator\Decorator\obj\Debug\Decorator.pdb

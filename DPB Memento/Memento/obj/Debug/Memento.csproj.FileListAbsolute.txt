@@ -1,0 +1,14 @@
+c:\users\leonid kononov\source\repos\Memento\Memento\bin\Debug\Memento.exe.config
+c:\users\leonid kononov\source\repos\Memento\Memento\bin\Debug\Memento.exe
+c:\users\leonid kononov\source\repos\Memento\Memento\bin\Debug\Memento.pdb
+c:\users\leonid kononov\source\repos\Memento\Memento\obj\Debug\Memento.csprojResolveAssemblyReference.cache
+c:\users\leonid kononov\source\repos\Memento\Memento\obj\Debug\Memento.csproj.CoreCompileInputs.cache
+c:\users\leonid kononov\source\repos\Memento\Memento\obj\Debug\Memento.exe
+c:\users\leonid kononov\source\repos\Memento\Memento\obj\Debug\Memento.pdb
+C:\Users\Leonid Kononov\Desktop\Source\Design Patterns\DPB Memento\Memento\bin\Debug\Memento.exe.config
+C:\Users\Leonid Kononov\Desktop\Source\Design Patterns\DPB Memento\Memento\bin\Debug\Memento.exe
+C:\Users\Leonid Kononov\Desktop\Source\Design Patterns\DPB Memento\Memento\bin\Debug\Memento.pdb
+C:\Users\Leonid Kononov\Desktop\Source\Design Patterns\DPB Memento\Memento\obj\Debug\Memento.csprojResolveAssemblyReference.cache
+C:\Users\Leonid Kononov\Desktop\Source\Design Patterns\DPB Memento\Memento\obj\Debug\Memento.csproj.CoreCompileInputs.cache
+C:\Users\Leonid Kononov\Desktop\Source\Design Patterns\DPB Memento\Memento\obj\Debug\Memento.exe
+C:\Users\Leonid Kononov\Desktop\Source\Design Patterns\DPB Memento\Memento\obj\Debug\Memento.pdb

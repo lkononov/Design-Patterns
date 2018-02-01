@@ -1,0 +1,7 @@
+C:\Users\Leonid Kononov\source\repos\Factory Method\Factory Method\bin\Debug\Factory Method.exe.config
+C:\Users\Leonid Kononov\source\repos\Factory Method\Factory Method\bin\Debug\Factory Method.exe
+C:\Users\Leonid Kononov\source\repos\Factory Method\Factory Method\bin\Debug\Factory Method.pdb
+C:\Users\Leonid Kononov\source\repos\Factory Method\Factory Method\obj\Debug\Factory Method.csprojResolveAssemblyReference.cache
+C:\Users\Leonid Kononov\source\repos\Factory Method\Factory Method\obj\Debug\Factory Method.csproj.CoreCompileInputs.cache
+C:\Users\Leonid Kononov\source\repos\Factory Method\Factory Method\obj\Debug\Factory Method.exe
+C:\Users\Leonid Kononov\source\repos\Factory Method\Factory Method\obj\Debug\Factory Method.pdb

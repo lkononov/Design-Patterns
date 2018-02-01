@@ -1,0 +1,7 @@
+C:\Users\Leonid Kononov\source\repos\Abstract Factory\Abstract Factory\bin\Debug\Abstract Factory.exe.config
+C:\Users\Leonid Kononov\source\repos\Abstract Factory\Abstract Factory\bin\Debug\Abstract Factory.exe
+C:\Users\Leonid Kononov\source\repos\Abstract Factory\Abstract Factory\bin\Debug\Abstract Factory.pdb
+C:\Users\Leonid Kononov\source\repos\Abstract Factory\Abstract Factory\obj\Debug\Abstract Factory.csprojResolveAssemblyReference.cache
+C:\Users\Leonid Kononov\source\repos\Abstract Factory\Abstract Factory\obj\Debug\Abstract Factory.csproj.CoreCompileInputs.cache
+C:\Users\Leonid Kononov\source\repos\Abstract Factory\Abstract Factory\obj\Debug\Abstract Factory.exe
+C:\Users\Leonid Kononov\source\repos\Abstract Factory\Abstract Factory\obj\Debug\Abstract Factory.pdb
